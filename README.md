@@ -3,7 +3,6 @@
 //  DependentPointsConectorView.swift
 //  CollageBuilder
 //
-//
 
 import SwiftUI
 
